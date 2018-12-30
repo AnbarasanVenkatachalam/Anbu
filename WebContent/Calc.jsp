@@ -22,7 +22,7 @@ span {
 </style>
 </head>
 
-<body BGCOLOR=GREEN>
+<body BGCOLOR=YELLOW>
 
 
 <table>
@@ -30,7 +30,7 @@ span {
 
 <tr>
 <td>
-<h1>Demo-Basic Calculator</h1>
+<h1>UBS-Basic Calculator</h1>
 <form method="post" action="Calc.jsp">
 Number 1 : <input type="text" name="num1" class="alignright"> <br/><br/>
 Number 2 : <input type="text" name="num2" class="alignright"> <br/><br/>
