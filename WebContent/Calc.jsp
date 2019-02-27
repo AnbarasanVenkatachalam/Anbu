@@ -22,7 +22,7 @@ span {
 </style>
 </head>
 
-<body BGCOLOR=YELLOW>
+<body BGCOLOR=GREEN>
 
 
 <table>
@@ -30,7 +30,7 @@ span {
 
 <tr>
 <td>
-<h1> AGILE IN Batch 186 THE NEW - Basic Calculator</h1>
+<h1> Basic Calculator</h1>
 <form method="post" action="Calc.jsp">
 Number 1 : <input type="text" name="num1" class="alignright"> <br/><br/>
 Number 2 : <input type="text" name="num2" class="alignright"> <br/><br/>
